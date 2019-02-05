@@ -49,3 +49,6 @@ class Finder(Config):
 			print("[" + response['status'] + "] " + full_url)
 
 
+if __name__ == '__main__':
+	print("ini adalah module finder")
+
