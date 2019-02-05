@@ -1,0 +1,7 @@
+
+login.php
+admin/login.php
+login
+auth/admin/login.php
+sakoo_yes
+dashboard
