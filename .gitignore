@@ -1,0 +1,9 @@
+# don't track this folder
+
+__pycache__/
+modules/__pychace__/
+
+
+# file untracked
+
+*.pyc
