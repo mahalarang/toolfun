@@ -3,10 +3,12 @@
 __pycache__/
 modules/__pychace__/
 modules/*/__pychace__/
+*/__pychace__/
 
 
 # file untracked
 
 modules/*.pyc
 modules/*/*.pyc
+*/*.pyc
 *.pyc
